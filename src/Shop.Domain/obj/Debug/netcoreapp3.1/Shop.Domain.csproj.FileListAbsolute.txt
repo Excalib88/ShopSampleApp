@@ -1,0 +1,8 @@
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/bin/Debug/netcoreapp3.1/Shop.Domain.deps.json
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/bin/Debug/netcoreapp3.1/Shop.Domain.dll
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/bin/Debug/netcoreapp3.1/Shop.Domain.pdb
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/obj/Debug/netcoreapp3.1/Shop.Domain.csprojAssemblyReference.cache
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/obj/Debug/netcoreapp3.1/Shop.Domain.AssemblyInfoInputs.cache
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/obj/Debug/netcoreapp3.1/Shop.Domain.AssemblyInfo.cs
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/obj/Debug/netcoreapp3.1/Shop.Domain.dll
+/Users/dmansurov/Projects/Shop/src/Shop.Domain/obj/Debug/netcoreapp3.1/Shop.Domain.pdb
